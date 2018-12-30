@@ -10,6 +10,9 @@ class App extends Component {
           <p>
             Reload me, bro. One more time.
           </p>
+          <p>
+            Changing it up in the feature branch
+          </p>
         </header>
         <Table></Table>
       </div>
